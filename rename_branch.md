@@ -38,7 +38,7 @@ $ git branch --unset-upstream
   
 
 ```bash
-$ git push --set-upstream origin gb
+$ git push --set-upstream origin new-name
 ```
 
 -----
