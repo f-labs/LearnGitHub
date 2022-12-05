@@ -32,3 +32,7 @@
 `$ git push -u origin master` 将本地的`master`分支推送到`origin`主机，同时指定`origin`为默认主机。如果当前分支与多个主机存在追踪关系，那么这个时候`-u`选项会指定一个默认主机，这样后面就可以不加任何参数使用`git push`。
 
 这里的`origin`是远程仓库的别名，`master`是本地分支别名，均可以替换为其他自取的对应主机或分支的别名。
+
+---
+git远程仓库分支的各命令的具体解析(git remote add)
+https://blog.csdn.net/wq6ylg08/article/details/89028412
